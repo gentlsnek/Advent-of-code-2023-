@@ -23,7 +23,7 @@ import java.io.*;
     }
 }
 
-public class fileIO {
+public class Day1 {
    
     public static void main(String[] args) throws IOException, NumberFormatException{
     Matchertry mA = new Matchertry();
