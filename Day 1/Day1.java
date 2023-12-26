@@ -5,7 +5,7 @@ import java.io.*;
    
 
     class Matchertry {
-        int result;
+    int result;
     int hopeThisWorks(String s) throws IOException, NumberFormatException{
     Matcher m1 = Pattern.compile("\\d").matcher(s);
     m1.find();
